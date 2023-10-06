@@ -13,7 +13,7 @@ gsd
 gfqs
 dfq
 ef
-
+en bij voorkeur ook in het midden een lijntje toevoegen
 
 d
 de
@@ -21,3 +21,4 @@ f
 ef
 sfsf
 efe
+lijntje toevoegen
